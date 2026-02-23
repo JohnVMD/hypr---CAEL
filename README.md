@@ -1,7 +1,6 @@
-# hypr---NixOS
-Configs for hyprland and hyprlock.
+# hypr---CAEL
+Configs for CachyOS with hyprland
 
-> ⚠ PROJECT ON A PAUSE SINCE I'VE SWITCHED DISTROS ⚠
+> Nix has been fun to use, but not the best choice for a begginer with low linux experience.
 
-Nix has been fun to use, but not the best choice for a begginer with low linux experience.
-Might add NixOS to a dual boot setup later :)
+Base hyprland minimal setup paired with Caelestia Shell module instead of waybar.
